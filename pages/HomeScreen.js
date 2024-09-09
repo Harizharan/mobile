@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { View, Text, SafeAreaView } from 'react-native';
-import Mybutton from '../components/ Mybutton.js';
-import Mytext from '../components/Mytext.js';
+import Mybutton from '../components/exp4/ Mybutton.js';
+import Mytext from '../components/exp4/Mytext.js';
 import { openDatabase } from 'react-native-sqlite-storage';
 
 var db = openDatabase({ name: 'UserDatabase.db' });

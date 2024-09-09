@@ -6,8 +6,8 @@ import {
   Alert,
   SafeAreaView,
 } from 'react-native';
-import Mytextinput from '../components/Mytextinput.js';
-import Mybutton from '../components/ Mybutton.js';
+import Mytextinput from '../components/exp4/Mytextinput.js';
+import Mybutton from '../components/exp4/ Mybutton.js';
 import { openDatabase } from 'react-native-sqlite-storage';
 
 
